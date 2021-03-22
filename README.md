@@ -27,6 +27,6 @@ Fig. 3 - Deeper Convolutional Neural Network GAN architecture for CIFAR10.
 
 
 ## References
-[1] - [Deep Learning in Computer Vision - Generative Adversarial Networks](Report.pdf)\
-[2] - [UBx, Bordeaux, France. Deep Learning in Computer Vision](http://ipcv.eu/blog/course/deep-learning-in-computer-vision/)\
+[1] - [Deep Learning in Computer Vision - Generative Adversarial Networks](Report.pdf).\
+[2] - [UBx, Bordeaux, France. Deep Learning in Computer Vision](http://ipcv.eu/blog/course/deep-learning-in-computer-vision/).\
 [3] - S. Barua, S. M. Erfani, and J. Bailey, “Fcc-gan: A fully connected and convolutional net architecture for gans,” arXiv preprint arXiv:1905.02417, 2019.
